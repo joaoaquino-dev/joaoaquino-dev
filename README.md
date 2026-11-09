@@ -17,7 +17,7 @@ I build web applications with React, Node.js and Supabase/PostgreSQL.
 
 ## Sobre mim
 
-Estudo Engenharia de Software na Universidade Estácio de Sá (conclusão prevista para 2029) e moro em Brasília, DF. Meu foco é back-end e full stack.
+Estudo Engenharia de Software na Universidade Estácio de Sá (conclusão prevista para 2029) e moro em Brasília, DF. Meu foco é back-end e full stack. Atualmente sou **Estagiário de TI no DTI do INSS**.
 
 Desenvolvo meus projetos com apoio de IA: eu defino os requisitos, testo o comportamento e reviso o resultado. Um exemplo é o **Soma**, que uso no dia a dia para organizar minhas finanças.
 
@@ -26,7 +26,7 @@ Estou estudando **Java**, **SQL** e **TypeScript**.
 <details>
 <summary><b>About me (English)</b></summary>
 
-I study Software Engineering at Universidade Estácio de Sá (expected graduation: 2029) and live in Brasília, Brazil. I focus on back-end and full-stack development.
+I study Software Engineering at Universidade Estácio de Sá (expected graduation: 2029) and live in Brasília, Brazil. I focus on back-end and full-stack development. I currently work as an **IT Intern at DTI, INSS**.
 
 I build my projects with AI assistance: I define the requirements, test the behavior and review the result. One example is **Soma**, which I use daily to organize my own finances.
 
