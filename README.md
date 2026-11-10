@@ -44,11 +44,11 @@ Plataforma SaaS multi-tenant para rotina de clínicas: agendamentos, precificaç
 
 ---
 
-### 2. [Soma](https://github.com/joaoaquino-dev/financas-app) — Planejamento Financeiro Pessoal Mensal
+### 2. [Soma](https://github.com/joaoaquino-dev/soma) — Planejamento Financeiro Pessoal Mensal
 Aplicação de gestão orçamentária pessoal em uso diário real há meses. Gerencia rendas fixas/variáveis, faturas de cartão com projeção de parcelas para 6 meses e transição automática entre meses.
 - **Diferencial de Engenharia:** Sincronização multi-dispositivo com prevenção de conflitos via controle de versão atômico (`save_finance_month` em PL/pgSQL). Conta com **15 testes automatizados** cobrindo regras financeiras puras e salvamento assíncrono.
 - **Stack:** React 18, Vite, Tailwind CSS, Supabase (Auth & PostgreSQL com RLS), Node Test Runner, GitHub Actions (CI/CD).
-- 🔗 **Links:** [Acessar aplicação](https://joaoaquino-dev.github.io/financas-app/) · [Guia de regras e uso](https://github.com/joaoaquino-dev/financas-app/blob/main/docs/GUIA-DE-USO.md) · [Repositório](https://github.com/joaoaquino-dev/financas-app)
+- 🔗 **Links:** [Acessar aplicação](https://joaoaquino-dev.github.io/soma/) · [Guia de regras e uso](https://github.com/joaoaquino-dev/soma/blob/main/docs/GUIA-DE-USO.md) · [Repositório](https://github.com/joaoaquino-dev/soma)
 
 ---
 
